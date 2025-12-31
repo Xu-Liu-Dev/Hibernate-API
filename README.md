@@ -1,1 +1,3 @@
+Hibernate-API
+-
 Hibernate‑API is a lightweight Java library that simplifies working with Hibernate ORM. It provides clean utilities for entity management, session handling, queries, and transactions, reducing boilerplate and offering a more streamlined, developer‑friendly approach to database operations.
